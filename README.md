@@ -11,6 +11,8 @@ Building reliable mobile products and production-ready intelligent systems.
 
 </div>
 
+<!-- Professional profile: Senior iOS Engineering + AI/ML Engineering -->
+
 ## Engineering profile
 
 I am a **Senior iOS Engineer at AXA** with around nine years of experience delivering mobile products across insurance, banking, fintech, payments, health, and e-commerce. My iOS work centers on modular architecture, modern Swift concurrency, maintainable design systems, automated testing, code quality, and dependable CI/CD.
