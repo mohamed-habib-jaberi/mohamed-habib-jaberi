@@ -17,9 +17,11 @@
 
 ## Engineering profile
 
-I am a **Senior iOS Engineer at AXA** with **more than 11 years of hands-on engineering experience**, from my first mobile development and teaching roles to senior and lead positions delivering production applications across insurance, banking, fintech, payments, health, and e-commerce. My iOS work centers on modular architecture, modern Swift concurrency, maintainable design systems, automated testing, code quality, and dependable CI/CD.
+I am a **Senior Software Engineer** with **more than 11 years of hands-on experience** and dual expertise in **iOS engineering** and **artificial intelligence**. I have delivered production applications across demanding domains including banking, insurance, fintech, payments, health, and e-commerce.
 
-My experience now combines this strong mobile foundation with applied **AI and machine-learning engineering**. I train and evaluate ML and deep-learning models, build intelligent systems with **AI agents and RAG**, work with LLM fine-tuning and multimodal workflows, and develop reproducible MLOps pipelines. My focus is not only creating models, but making them observable, deployable, maintainable, and useful in real products.
+Depending on the mission, I can contribute as an **iOS specialist**, an **AI/ML engineer**, or at the intersection of both disciplines to integrate intelligent capabilities into high-quality mobile products. On iOS, I design modular applications with modern Swift, scalable architecture, reusable components, and robust delivery pipelines. In AI, I train and evaluate ML and deep-learning models, build intelligent systems with **AI agents and RAG**, work with LLM fine-tuning and multimodal workflows, and develop reproducible MLOps pipelines.
+
+Across both domains, my engineering principles remain the same: **quality first, clean and pragmatic architecture, maintainability, scalability, testability, observability, security, and reliable delivery**. I aim to transform complex requirements into solutions that are technically sound, understandable by the team, and sustainable in production.
 
 I am passionate, highly motivated, and committed to continuous improvement. I deliberately challenge my limits, explore emerging technologies, and turn structured learning into practical projects that demonstrate real engineering outcomes.
 
@@ -40,12 +42,13 @@ I am passionate, highly motivated, and committed to continuous improvement. I de
 | [AI Agent Lab](https://github.com/mohamed-habib-jaberi/AI-Agent-LAB) | Agentic systems for browser automation, research, search, extraction, sentiment analysis, and multimodal interaction | OpenAI · Gemini · Python · Agentic AI |
 | [Breast Cancer Image Classifier](https://github.com/mohamed-habib-jaberi/PyTorch-BreastCancer-Classifier) | Deep-learning workflow from preprocessing and transfer learning to scalable API deployment | PyTorch · ONNX · Flask · Docker · Kubernetes |
 
-## Mobile engineering experience
+## How I contribute
 
-- **AXA — Senior iOS Developer:** modular Clean Architecture with Swift Package Manager, Swift concurrency, AI chatbot features, TDD/BDD, SonarQube, SwiftLint, and cross-functional product delivery.
-- **BforBank — Lead iOS Developer:** SwiftUI banking experiences, MVVM-C, async/await, Combine, reusable design-system components, Bitrise delivery, and testable architecture.
-- **Euro-Information / Lyf Pay — Senior iOS Developer:** mobile-payment features, RxSwift, Core Data, universal links, SDK integration, architectural modernization, and unit testing.
-- Earlier products include mobile banking, healthcare, augmented reality, geolocation, e-commerce, and automated App Store delivery with Fastlane.
+- **iOS & mobile engineering:** Swift, SwiftUI, UIKit, modern concurrency, modularization with Swift Package Manager, design systems, reusable components, REST integrations, and production delivery.
+- **AI & machine learning:** model training and evaluation, deep learning, computer vision, NLP, LLM fine-tuning, RAG, AI agents, experimentation, deployment, and monitoring.
+- **Mobile + AI missions:** bridging mobile product engineering with intelligent services to create useful, secure, maintainable, and user-focused AI experiences.
+- **Architecture & quality:** Clean Architecture, SOLID principles, appropriate design patterns, TDD/BDD, unit and functional testing, code review, static analysis, and CI/CD automation.
+- **Technical leadership:** solution design, proof-of-concept development, technical refinement, knowledge sharing, risk identification, and collaboration across engineering, product, and design.
 
 ## Technical toolbox
 
