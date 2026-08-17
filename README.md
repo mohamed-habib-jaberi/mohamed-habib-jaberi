@@ -7,6 +7,8 @@
 Building reliable mobile products and production-ready intelligent systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-habib-jaberi-b51706120/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaberi.mohamedhabib)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jaberimohamedhabib)
 [![Profile views](https://komarev.com/ghpvc/?username=mohamed-habib-jaberi&style=for-the-badge&color=0A66C2)](https://github.com/mohamed-habib-jaberi)
 
 </div>
@@ -90,6 +92,6 @@ Alongside mobile engineering, I build applied **AI and machine-learning systems*
 
 Open to collaborating on **iOS architecture, mobile AI, agentic systems, RAG, deep learning, and MLOps**.
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-habib-jaberi-b51706120/) · [GitHub](https://github.com/mohamed-habib-jaberi)
+[LinkedIn](https://www.linkedin.com/in/mohamed-habib-jaberi-b51706120/) · [Medium](https://medium.com/@jaberi.mohamedhabib) · [Kaggle](https://www.kaggle.com/jaberimohamedhabib) · [GitHub](https://github.com/mohamed-habib-jaberi)
 
 </div>
