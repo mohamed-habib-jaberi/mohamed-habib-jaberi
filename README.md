@@ -4,7 +4,7 @@
 
 ### Senior iOS Engineer · AI/ML Engineer
 
-Building reliable mobile products and production-ready intelligent systems.
+11+ years building reliable mobile products and production-ready intelligent systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-habib-jaberi-b51706120/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jaberi.mohamedhabib)
@@ -17,9 +17,11 @@ Building reliable mobile products and production-ready intelligent systems.
 
 ## Engineering profile
 
-I am a **Senior iOS Engineer at AXA** with around nine years of experience delivering mobile products across insurance, banking, fintech, payments, health, and e-commerce. My iOS work centers on modular architecture, modern Swift concurrency, maintainable design systems, automated testing, code quality, and dependable CI/CD.
+I am a **Senior iOS Engineer at AXA** with **more than 11 years of hands-on engineering experience**, from my first mobile development and teaching roles to senior and lead positions delivering production applications across insurance, banking, fintech, payments, health, and e-commerce. My iOS work centers on modular architecture, modern Swift concurrency, maintainable design systems, automated testing, code quality, and dependable CI/CD.
 
-Alongside mobile engineering, I build applied **AI and machine-learning systems** spanning deep learning, computer vision, NLP, LLM fine-tuning, RAG, agentic workflows, and MLOps. My focus is not only training models, but making them reproducible, observable, deployable, and useful in real products.
+My experience now combines this strong mobile foundation with applied **AI and machine-learning engineering**. I train and evaluate ML and deep-learning models, build intelligent systems with **AI agents and RAG**, work with LLM fine-tuning and multimodal workflows, and develop reproducible MLOps pipelines. My focus is not only creating models, but making them observable, deployable, maintainable, and useful in real products.
+
+I am passionate, highly motivated, and committed to continuous improvement. I deliberately challenge my limits, explore emerging technologies, and turn structured learning into practical projects that demonstrate real engineering outcomes.
 
 | Production iOS | Applied AI & ML | Engineering delivery |
 |---|---|---|
@@ -78,6 +80,10 @@ Alongside mobile engineering, I build applied **AI and machine-learning systems*
 - Designing **RAG and agentic AI systems** with evaluation, guardrails, and observable workflows.
 - Developing production ML systems with **experiment tracking, versioning, monitoring, deployment, and CI/CD**.
 - Deepening expertise in **LLM fine-tuning, multimodal AI, and scalable inference**.
+
+## Continuous learning
+
+Technology evolves quickly, so learning is a permanent part of my engineering practice. I continuously pursue specialized courses, skill tracks, and professional certifications through **DataCamp**, **DeepLearning.AI**, **Coursera**, and other trusted learning platforms. I reinforce each course with hands-on implementation, documented experiments, and portfolio projects covering AI engineering, deep learning, agentic AI, RAG, MLOps, and production software architecture.
 
 ## GitHub at a glance
 
