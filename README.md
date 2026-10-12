@@ -25,11 +25,13 @@ Across both domains, my engineering principles remain the same: **quality first,
 
 I am passionate, highly motivated, and committed to continuous improvement. I deliberately challenge my limits, explore emerging technologies, and turn structured learning into practical projects that demonstrate real engineering outcomes.
 
-| Production iOS | Applied AI & ML | Engineering delivery |
-|---|---|---|
-| Swift, SwiftUI, UIKit, Combine, RxSwift | PyTorch, scikit-learn, NLP, computer vision | Clean Architecture, SOLID, design patterns |
-| Async/Await, actors, SPM, MVVM-C, VIPER | LLMs, Llama, LoRA, RAG, AI agents | TDD, BDD, XCTest, code review |
-| Modular apps, design systems, REST APIs | MLflow, DVC, monitoring, model registry | GitHub Actions, Docker, Kubernetes, FastAPI |
+| Engineering area | Technologies | Technical strengths | Architecture & quality | Delivery impact |
+|---|---|---|---|---|
+| **Production iOS** | Swift, SwiftUI, UIKit, Combine, RxSwift, Async/Await, actors, SPM | Modular apps, reusable UI, REST integrations, state management, offline-first flows | Clean Architecture, MVVM-C, VIPER, SOLID, design patterns, XCTest, BDD/TDD | Reliable mobile products for banking, insurance, fintech, payments, health, and e-commerce |
+| **Applied AI & ML** | Python, PyTorch, scikit-learn, pandas, NumPy, Hugging Face | Model training, evaluation, feature engineering, NLP, computer vision, error analysis | Reproducible experiments, metrics tracking, model validation, explainability, data quality | Practical ML systems with documented pipelines, tests, and measurable performance |
+| **LLM & Generative AI** | Llama, TinyLlama, LoRA, PEFT, TRL, tokenizers, transformers | Fine-tuning, prompt design, local inference, quantization, text generation, chat adaptation | Dataset preparation, instruction tuning, evaluation loops, checkpoint management | Portfolio projects that show end-to-end LLM engineering from data to inference |
+| **RAG & AI agents** | FastAPI, Qdrant, PGVector, PostgreSQL, MongoDB, Celery, Ollama, OpenAI, Gemini | Retrieval pipelines, embeddings, document ingestion, semantic search, agent workflows | Guardrails, observability, asynchronous workers, scalable APIs, structured outputs | Intelligent document and automation systems ready for real product workflows |
+| **MLOps & backend delivery** | MLflow, DVC, Docker, Kubernetes, GitHub Actions, FastAPI, Streamlit | Experiment tracking, data versioning, CI/CD, model registry, monitoring, API serving | Quality gates, reproducible environments, automated tests, deployment readiness | Maintainable AI platforms that connect research, engineering, and production |
 
 ## Selected work
 
