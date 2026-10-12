@@ -35,6 +35,8 @@ I am passionate, highly motivated, and committed to continuous improvement. I de
 
 | Project | What it demonstrates | Stack |
 |---|---|---|
+| [FikrLLM](https://github.com/mohamed-habib-jaberi/FikrLLM) | Bilingual Arabic-English GPT built from scratch, covering corpus preparation, BPE tokenization, packed datasets, pretraining, generation, and LoRA chat fine-tuning | Python · PyTorch · Tokenizers · Hugging Face · LoRA |
+| [RAGDocumentsIntelligence](https://github.com/mohamed-habib-jaberi/RAGDocumentsIntelligence) | Document-intelligence RAG platform for document Q&A, asynchronous processing, vector search, local/cloud LLMs, containerized services, and observability | Python · FastAPI · Celery · PostgreSQL · MongoDB · PGVector · Qdrant · Docker |
 | [London Temperature MLOps Platform](https://github.com/mohamed-habib-jaberi/london-temperature-mlops-platform) | Leak-free forecasting, experiment governance, quality gates, champion model promotion, drift monitoring, API serving, and CI/CD | Python · MLflow · DVC · scikit-learn · FastAPI · Docker |
 | [E-Commerce Clothing Classifier](https://github.com/mohamed-habib-jaberi/Building-an-E-Commerce-Clothing-Classifier-Model) | Production-minded computer vision with **91.23% test accuracy**, reusable inference, Streamlit, tests, and continuous integration | PyTorch · CNN · Computer Vision · Streamlit |
 | [Service Desk Ticket Classification](https://github.com/mohamed-habib-jaberi/Service-Desk-Ticket-Classification-with-Deep-Learning) | End-to-end NLP routing pipeline with embeddings, 1D CNN, multiclass evaluation, and error analysis | PyTorch · NLP · Deep Learning |
